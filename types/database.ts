@@ -111,12 +111,15 @@ export interface Database {
           co_occurring_type: string | null
           transportation_provided: boolean
           shower_trailer: boolean
+          support_services: string[] | null
           other_services: string | null
           placement_made: boolean
           placement_location: string | null
           placement_location_other: string | null
+          placement_detox_name: string | null
           refused_shelter: boolean
           refused_services: boolean
+          shelter_unavailable: boolean
           high_utilizer_contact: boolean
           case_management_notes: string | null
           photo_urls: string[] | null
@@ -139,12 +142,15 @@ export interface Database {
           co_occurring_type?: string | null
           transportation_provided?: boolean
           shower_trailer?: boolean
+          support_services?: string[] | null
           other_services?: string | null
           placement_made?: boolean
           placement_location?: string | null
           placement_location_other?: string | null
+          placement_detox_name?: string | null
           refused_shelter?: boolean
           refused_services?: boolean
+          shelter_unavailable?: boolean
           high_utilizer_contact?: boolean
           case_management_notes?: string | null
           photo_urls?: string[] | null
@@ -167,12 +173,15 @@ export interface Database {
           co_occurring_type?: string | null
           transportation_provided?: boolean
           shower_trailer?: boolean
+          support_services?: string[] | null
           other_services?: string | null
           placement_made?: boolean
           placement_location?: string | null
           placement_location_other?: string | null
+          placement_detox_name?: string | null
           refused_shelter?: boolean
           refused_services?: boolean
+          shelter_unavailable?: boolean
           high_utilizer_contact?: boolean
           case_management_notes?: string | null
           photo_urls?: string[] | null
