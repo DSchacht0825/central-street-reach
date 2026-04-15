@@ -171,20 +171,9 @@ export const REFERRAL_SOURCES = [
 
 // Team members for case manager dropdown (full names)
 export const TEAM_MEMBERS = [
-  'Alex Barragan',
-  'Angel Lopez',
-  'Carolina Portales',
-  'Cindy Ibanez',
-  'Deborah Grinstaff',
-  'Ian Raniey',
-  'James Francisco',
-  'Kaylyn Jason',
-  'Kenneth Tolbert',
-  'Khaliah Norman',
-  'Mario Moreno',
-  'Marsha Duka',
-  'Sebastian De La Torre',
-  'Vanessa Alvarez',
+  'Carla',
+  'Paul',
+  'Sabrina',
 ] as const
 
 export const TIME_HOMELESS_OPTIONS = [

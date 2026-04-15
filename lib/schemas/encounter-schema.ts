@@ -63,20 +63,9 @@ export const CO_OCCURRING_TYPES = [
 
 // Outreach workers (full names)
 export const OUTREACH_WORKERS = [
-  'Alex Barragan',
-  'Angel Lopez',
-  'Carolina Portales',
-  'Cindy Ibanez',
-  'Deborah Grinstaff',
-  'Ian Rainey',
-  'James Francisco',
-  'Kaylyn Jason',
-  'Kenneth Tolbert',
-  'Khaliah Norman',
-  'Mario Moreno',
-  'Marsha Duka',
-  'Sebastian De La Torre',
-  'Vanessa Alvarez',
+  'Carla',
+  'Paul',
+  'Sabrina',
 ] as const
 
 // Placement locations
