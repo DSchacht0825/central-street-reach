@@ -129,6 +129,7 @@ export const SUPPORT_SERVICES = [
   { value: 'medi_cal', label: 'Medi-Cal Enrollment' },
   { value: 'food_provided', label: 'Food/Meals Provided' },
   { value: 'phone_assistance', label: 'Phone Assistance' },
+  { value: 'csip_referral', label: 'CSIP Referral' },
 ] as const
 
 // Service subtypes from Vista/Eponic system
