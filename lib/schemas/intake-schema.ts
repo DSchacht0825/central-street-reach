@@ -134,6 +134,7 @@ export const DISABILITY_TYPES = [
 ] as const
 
 export const REFERRAL_SOURCES = [
+  'Walk-in',
   'Alpha project on 17th',
   'Alpha on 16th & Newton',
   'Neil good day center',
